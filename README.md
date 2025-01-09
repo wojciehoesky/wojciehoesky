@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iwo Wojciechowski</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🎓 Data Science Student | Full-Stack Data Programmer
+📍 TU Eindhoven (TUe) & Tilburg University (TiU)
+
+Passionate about turning complex data into actionable insights and building robust, end-to-end data solutions. With a strong foundation in data science and full-stack programming, I specialize in creating scalable applications and innovative solutions that bridge the gap between raw data and business value.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
